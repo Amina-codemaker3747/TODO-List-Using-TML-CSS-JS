@@ -12,7 +12,7 @@
   <li><a href="#">Project Structure</a></li>
   <li><a href="#">Contributing</a></li>
   <li><a href="#">License</a></li>
-  <li><a href="#"></a>Contact</li>
+  <li><a href="#">Contact</a></li>
 </ul>
 <br>
 <h2>Features</h2>
